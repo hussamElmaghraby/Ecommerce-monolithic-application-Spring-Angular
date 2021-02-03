@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ecommerce.hussam"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "ecommerce",
+    "packageName": "com.ecommerce.hussam",
+    "packageFolder": "com/ecommerce/hussam",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2E4YTg1NjlmNTA0M2FhNjJjODU2NmQzZmE0ZTVmMWM4ZmFhYjZhNDFmNzNkYzdiNjVkZDc3MjYwZWY0NWNjMDI2ZDYyNDU2OGM5MDE0MGJlYTBiOTVjZWRlYjNkNzE0NGRlMzc1Y2JmMjJhMjg4NjBiZDE2ZGI4YzUzOTBlYmM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1612396352762,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["invoice", "notification", "store"],
+    "directoryPath": "../",
+    "clusteredDbApps": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "OTJiZTAxN2NjYmFjMjRmZTU0NGZmZmU1YTE3ZDIyYjA3ZTU3ODYzMzIzN2E2ODA2NzIyYjhhY2MzZDBjYmJmZWE0ZDE3MDQ5OGYzZGRlNGVlZGJkNmE5NzRkZTQxZGZlNmYwMA==",
+    "dockerRepositoryName": "hussam",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "hussam",
+    "kubernetesServiceType": "LoadBalancer",
+    "kubernetesUseDynamicStorage": false,
+    "ingressDomain": "",
+    "monitoring": "elk",
+    "istio": false
+  }
+}
